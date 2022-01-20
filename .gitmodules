@@ -1,0 +1,15 @@
+[submodule "core-data-java"]
+	path = core-data-java
+	url = https://git.cygnux.cn/siriux/core-data-java.git
+[submodule "frontpage-java"]
+	path = frontpage-java
+	url = https://git.cygnux.cn/siriux/frontpage-java.git
+[submodule "frontpage-web"]
+	path = frontpage-web
+	url = https://git.cygnux.cn/siriux/frontpage-web.git
+[submodule "backoffice-java"]
+	path = backoffice-java
+	url = https://git.cygnux.cn/siriux/backoffice-java.git
+[submodule "backoffice-web"]
+	path = backoffice-web
+	url = https://git.cygnux.cn/siriux/backoffice-web.git
